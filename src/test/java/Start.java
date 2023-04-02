@@ -17,7 +17,7 @@ public class Start {
 
 
         //3- Use the driver instance to test selenium
-        driver.get("https://www.google.com");
+        driver.get("https://www.google.com/");
 
         //System.out.println("The title of the page is: " + driver.getTitle());
 
