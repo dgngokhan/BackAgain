@@ -1,3 +1,5 @@
+package com.dogan.tests;
+
 public class reverse {
     public static void main(String[] args) {
         String s = "Selenium";

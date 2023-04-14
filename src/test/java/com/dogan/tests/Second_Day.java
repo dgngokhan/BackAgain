@@ -1,3 +1,4 @@
+package com.dogan.tests;
 
 import java.util.Scanner;
 public class Second_Day {

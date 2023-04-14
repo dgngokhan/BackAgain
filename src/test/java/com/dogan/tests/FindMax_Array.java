@@ -1,3 +1,5 @@
+package com.dogan.tests;
+
 public class FindMax_Array {
 
         public int maxValue(int[] n){
